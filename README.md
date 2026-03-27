@@ -1,4 +1,6 @@
 # Linear-Regression
+#  NAME : PRAVISH J
+# REG NO : 212224040249
 
 ## a) Stock Market Prediction using Linear Regression
 
